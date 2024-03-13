@@ -1,7 +1,7 @@
 # Angular CRUD Application with ASP.NET Core Web API - Todo List
 
 ## Overview
-This project is a Todo List application built with Angular and ASP.NET Core Web API. It serves as a demonstration of CRUD (Create, Read, Update, Delete) operations in Angular, connecting to a backend API built with ASP.NET Core.
+This project is a Todo List application built using Angular for the frontend and ASP.NET Core Web API for the backend. The application allows users to manage their tasks by performing CRUD (Create, Read, Update, Delete) operations. It was created as an exercise to refamiliarize the developer with Angular for frontend development and ASP.NET Core for backend development.
 
 ### Features
 - Create, read, update, and delete todo items.
